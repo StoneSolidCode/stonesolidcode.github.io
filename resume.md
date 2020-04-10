@@ -1,12 +1,13 @@
 # Stone Kaech
 
-stonekaech@gmail.com
+[LinkedIn](https://www.linkedin.com/in/stone-kaech-6727b3158/)
 
-https://www.linkedin.com/in/stone-kaech-6727b3158/
+
+![eve](http://getwallpapers.com/wallpaper/full/b/b/0/451411.jpg#.XpAEEnoZWl8.link "In the palm of my hand")
 
 # Summary
 
-I’m looking to use my current skill set and grow in a professional environment. I love working with large amounts of data and developing applications that derive solutions from seemingly chaos.
+> I’m looking to use my current skill set and grow in a professional environment. I love working with large amounts of data and developing applications that derive solutions from seemingly chaos.
 
 # Work Experience
 
@@ -35,4 +36,4 @@ I’m looking to use my current skill set and grow in a professional environment
 - Created dynamic visualizations to address the need to see their live selection of proteins and clones that are solved and available
 
 
-[University of Washington]: http://www.washington.edu/
+[University of Washington](http://www.washington.edu/)
